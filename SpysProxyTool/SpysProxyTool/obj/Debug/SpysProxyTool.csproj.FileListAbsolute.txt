@@ -1,0 +1,11 @@
+C:\Users\mariu\Documents\GitHub\Bakalauras\SpysProxyTool\SpysProxyTool\SpysProxyTool\bin\Debug\SpysProxyTool.exe.config
+C:\Users\mariu\Documents\GitHub\Bakalauras\SpysProxyTool\SpysProxyTool\SpysProxyTool\bin\Debug\SpysProxyTool.exe
+C:\Users\mariu\Documents\GitHub\Bakalauras\SpysProxyTool\SpysProxyTool\SpysProxyTool\bin\Debug\SpysProxyTool.pdb
+C:\Users\mariu\Documents\GitHub\Bakalauras\SpysProxyTool\SpysProxyTool\SpysProxyTool\bin\Debug\HtmlAgilityPack.dll
+C:\Users\mariu\Documents\GitHub\Bakalauras\SpysProxyTool\SpysProxyTool\SpysProxyTool\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\mariu\Documents\GitHub\Bakalauras\SpysProxyTool\SpysProxyTool\SpysProxyTool\bin\Debug\HtmlAgilityPack.xml
+C:\Users\mariu\Documents\GitHub\Bakalauras\SpysProxyTool\SpysProxyTool\SpysProxyTool\obj\Debug\SpysProxyTool.csprojAssemblyReference.cache
+C:\Users\mariu\Documents\GitHub\Bakalauras\SpysProxyTool\SpysProxyTool\SpysProxyTool\obj\Debug\SpysProxyTool.csproj.CoreCompileInputs.cache
+C:\Users\mariu\Documents\GitHub\Bakalauras\SpysProxyTool\SpysProxyTool\SpysProxyTool\obj\Debug\SpysProxyTool.csproj.CopyComplete
+C:\Users\mariu\Documents\GitHub\Bakalauras\SpysProxyTool\SpysProxyTool\SpysProxyTool\obj\Debug\SpysProxyTool.exe
+C:\Users\mariu\Documents\GitHub\Bakalauras\SpysProxyTool\SpysProxyTool\SpysProxyTool\obj\Debug\SpysProxyTool.pdb
